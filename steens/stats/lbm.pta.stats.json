@@ -1,0 +1,80 @@
+{
+    "total_nodes": 78,
+    "total_edges": 110,
+    "average_degree": 1.4102564102564104,
+    "max_degree": 3,
+    "max_degree_nodes": [
+        [
+            "ux",
+            "lbm.c",
+            557
+        ],
+        [
+            "uy",
+            "lbm.c",
+            557
+        ],
+        [
+            "uz",
+            "lbm.c",
+            557
+        ],
+        [
+            "v",
+            "lbm.c",
+            "516"
+        ],
+        [
+            "i2",
+            "lbm.c",
+            519
+        ],
+        [
+            "arrayidx",
+            "lbm.c",
+            524
+        ],
+        [
+            "i4",
+            "lbm.c",
+            529
+        ],
+        [
+            "fileUx",
+            "lbm.c",
+            618
+        ],
+        [
+            "fileUy",
+            "lbm.c",
+            618
+        ],
+        [
+            "fileUz",
+            "lbm.c",
+            618
+        ],
+        [
+            "v",
+            "lbm.c",
+            "535"
+        ],
+        [
+            "i2",
+            "lbm.c",
+            538
+        ],
+        [
+            "arrayidx7",
+            "lbm.c",
+            545
+        ],
+        [
+            "i4",
+            "lbm.c",
+            548
+        ]
+    ],
+    "isolated_nodes": [],
+    "num_isolated_nodes": 0
+}

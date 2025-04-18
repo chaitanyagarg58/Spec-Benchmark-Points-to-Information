@@ -1,0 +1,11 @@
+{
+    "total_nodes": 456,
+    "total_edges": 1774,
+    "average_degree": 3.8903508771929824,
+    "max_degree": 35,
+    "max_degree_nodes": [
+        "hmmcalibrate"
+    ],
+    "isolated_nodes": [],
+    "num_isolated_nodes": 0
+}

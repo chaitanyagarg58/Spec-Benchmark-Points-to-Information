@@ -1,0 +1,13 @@
+{
+    "total_nodes": 2514,
+    "total_edges": 6192,
+    "average_degree": 2.4630071599045347,
+    "max_degree": 49,
+    "max_degree_nodes": [
+        "make_dragons",
+        "main",
+        "play_ascii"
+    ],
+    "isolated_nodes": [],
+    "num_isolated_nodes": 0
+}

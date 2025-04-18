@@ -595,7 +595,7 @@ namespace PTA{
             {101, 104}
 		};
 
-		const int graph_size = 226;
+		const unsigned int graph_size = 226;
 	
 	public:
 		inline const std::vector<EdgeT>& getGraph() const {
@@ -44312,7 +44312,7 @@ namespace PTA{
             {21875, 250}
 		};
 
-		const int graph_size = 38601;
+		const unsigned int graph_size = 38601;
 	
 	public:
 		inline const std::vector<EdgeT>& getGraph() const {

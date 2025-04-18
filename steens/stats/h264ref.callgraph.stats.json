@@ -1,0 +1,11 @@
+{
+    "total_nodes": 451,
+    "total_edges": 1541,
+    "average_degree": 3.4168514412416853,
+    "max_degree": 48,
+    "max_degree_nodes": [
+        "main"
+    ],
+    "isolated_nodes": [],
+    "num_isolated_nodes": 0
+}

@@ -1,0 +1,20 @@
+{
+    "total_nodes": 17213,
+    "total_edges": 150414,
+    "average_degree": 8.738395398826468,
+    "max_degree": 46,
+    "max_degree_nodes": [
+        [
+            "s",
+            "sre_string.c",
+            "36"
+        ],
+        [
+            "s",
+            "sre_string.c",
+            "36"
+        ]
+    ],
+    "isolated_nodes": [],
+    "num_isolated_nodes": 0
+}

@@ -1,0 +1,45 @@
+{
+    "total_nodes": 25703,
+    "total_edges": 604837,
+    "average_degree": 23.531766719838153,
+    "max_degree": 5772,
+    "max_degree_nodes": [
+        [
+            "i3",
+            "./engine/matchpat.c",
+            800
+        ],
+        [
+            "i6",
+            "./engine/matchpat.c",
+            813
+        ],
+        [
+            "arrayidx",
+            "./engine/matchpat.c",
+            813
+        ],
+        [
+            "att20",
+            "./engine/matchpat.c",
+            813
+        ],
+        [
+            "i8",
+            "./engine/matchpat.c",
+            816
+        ],
+        [
+            "arrayidx23",
+            "./engine/matchpat.c",
+            816
+        ],
+        [
+            "offset",
+            "./engine/matchpat.c",
+            816
+        ]
+    ],
+    "isolated_nodes": [],
+    "num_isolated_nodes": 0
+}

@@ -1,0 +1,70 @@
+{
+    "total_nodes": 872,
+    "total_edges": 1314,
+    "average_degree": 1.5068807339449541,
+    "max_degree": 6,
+    "max_degree_nodes": [
+        [
+            "ibuf",
+            "bzip2.c",
+            442
+        ],
+        [
+            "arraydecay11",
+            "bzip2.c",
+            465
+        ],
+        [
+            "obuf",
+            "bzip2.c",
+            552
+        ],
+        [
+            "default_bzalloc",
+            null,
+            ""
+        ],
+        [
+            "default_bzfree",
+            null,
+            ""
+        ],
+        [
+            "nblock",
+            "bzlib.c",
+            177
+        ],
+        [
+            "i",
+            "bzlib.c",
+            422
+        ],
+        [
+            "i2",
+            "bzlib.c",
+            531
+        ],
+        [
+            "buf",
+            "bzlib.c",
+            "1032"
+        ],
+        [
+            "buf38",
+            "bzlib.c",
+            1057
+        ],
+        [
+            "arraydecay",
+            "bzlib.c",
+            1057
+        ],
+        [
+            "buf",
+            "bzlib.c",
+            "1583"
+        ]
+    ],
+    "isolated_nodes": [],
+    "num_isolated_nodes": 0
+}

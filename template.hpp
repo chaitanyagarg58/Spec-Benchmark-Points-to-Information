@@ -250,7 +250,7 @@ namespace PTA{
 			${CallGraph_edges}
 		};
 
-		const int graph_size = ${CallGraph_size};
+		const unsigned int graph_size = ${CallGraph_size};
 	
 	public:
 		inline const std::vector<EdgeT>& getGraph() const {
@@ -279,7 +279,7 @@ namespace PTA{
 			${PointerGraph_edges}
 		};
 
-		const int graph_size = ${PointerGraph_size};
+		const unsigned int graph_size = ${PointerGraph_size};
 	
 	public:
 		inline const std::vector<EdgeT>& getGraph() const {

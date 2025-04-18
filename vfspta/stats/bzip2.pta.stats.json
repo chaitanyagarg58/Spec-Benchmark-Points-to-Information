@@ -1,0 +1,65 @@
+{
+    "total_nodes": 5028,
+    "total_edges": 34221,
+    "average_degree": 6.806085918854415,
+    "max_degree": 9,
+    "max_degree_nodes": [
+        [
+            "call8",
+            "spec.c",
+            91
+        ],
+        [
+            "ibuf",
+            "bzip2.c",
+            442
+        ],
+        [
+            "obuf",
+            "bzip2.c",
+            552
+        ],
+        [
+            "unusedTmpV",
+            "bzip2.c",
+            555
+        ],
+        [
+            "default_bzalloc",
+            null,
+            ""
+        ],
+        [
+            "default_bzfree",
+            null,
+            ""
+        ],
+        [
+            "call",
+            "bzlib.c",
+            161
+        ],
+        [
+            "call",
+            "bzlib.c",
+            1005
+        ],
+        [
+            "call",
+            "bzlib.c",
+            1182
+        ],
+        [
+            "strm",
+            "bzlib.c",
+            1328
+        ],
+        [
+            "strm",
+            "bzlib.c",
+            1379
+        ]
+    ],
+    "isolated_nodes": [],
+    "num_isolated_nodes": 0
+}

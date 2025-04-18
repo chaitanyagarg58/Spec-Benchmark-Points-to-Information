@@ -1,0 +1,75 @@
+{
+    "total_nodes": 4459,
+    "total_edges": 9939,
+    "average_degree": 2.2289751065261267,
+    "max_degree": 34,
+    "max_degree_nodes": [
+        [
+            "moves",
+            "moves.c",
+            "1278"
+        ],
+        [
+            "arrayidx",
+            "moves.c",
+            1285
+        ],
+        [
+            "ep1",
+            "moves.c",
+            1285
+        ],
+        [
+            "arrayidx3",
+            "moves.c",
+            1286
+        ],
+        [
+            "from4",
+            "moves.c",
+            1286
+        ],
+        [
+            "arrayidx6",
+            "moves.c",
+            1287
+        ],
+        [
+            "target7",
+            "moves.c",
+            1287
+        ],
+        [
+            "arrayidx9",
+            "moves.c",
+            1288
+        ],
+        [
+            "captured10",
+            "moves.c",
+            1288
+        ],
+        [
+            "arrayidx12",
+            "moves.c",
+            1289
+        ],
+        [
+            "promoted13",
+            "moves.c",
+            1289
+        ],
+        [
+            "arrayidx15",
+            "moves.c",
+            1290
+        ],
+        [
+            "castled16",
+            "moves.c",
+            1290
+        ]
+    ],
+    "isolated_nodes": [],
+    "num_isolated_nodes": 0
+}
